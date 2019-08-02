@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+  background-color: #4c4c4c;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+label {
+  display: block;
+}
+
+nav a {
+  display: inline-block;
+  margin: 1em;
+}
+
+form div {
+  margin: 1em;
+  display: inline-block;
+}
+
+#textInfo {
+  display: inline-block;
+  text-align: left;
+}
