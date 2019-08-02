@@ -2,5 +2,5 @@
 
 https://moneroinfo.herokuapp.com/
 
-Tracks price, Inflation rate, and Market Cap of Dogecoin
+Tracks price, Inflation rate, and Market Cap of Monero
 
